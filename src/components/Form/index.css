@@ -1,0 +1,27 @@
+form{
+    text-align: center;
+  }
+  
+  input, select{
+    height: 1.5em;
+    border-bottom: 1px gray;
+    border-style: hidden hidden ridge hidden;
+  }
+  
+  input[type='submit']{
+    margin-left: 5px;
+    height: 1.6em;
+    border-radius: 5px;
+    background: white;
+    border: solid 1px black;
+    color: black;
+  }
+  
+  input[type='submit']:hover{
+    border: hidden;
+    background: black;
+    color: white;
+  }
+
+
+ 
